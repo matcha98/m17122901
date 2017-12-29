@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">m17122901</string>
+    <string name="sendText">傳送文字</string>
+    <string name="sendImage">傳送圖片</string>
+</resources>
